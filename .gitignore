@@ -4,6 +4,9 @@
 /node_modules
 /.pnp
 .pnp.js
+src/setupTest.js
+src/App.test.js
+public/robots.txt
 
 # testing
 /coverage
